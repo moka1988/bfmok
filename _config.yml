@@ -14,15 +14,6 @@ encoding: "utf-8"
 side_bar_repo_limit: 5
 
 # ---------------- #
-#      Author      #
-# ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
-email: chumpma@gmail.com
-
-# ---------------- #
 #    Navigation    #
 # ---------------- #
 navs:
